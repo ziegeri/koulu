@@ -4,7 +4,6 @@
 -leipä
 -kameli
 -hevoinen
--silli
 -kahvi
 -tuuletin
 -magneettiventtiili
