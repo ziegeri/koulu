@@ -7,3 +7,4 @@
 -kahvi
 -tuuletin
 -magneettiventtiili
+-hevoskärryt
