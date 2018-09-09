@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 tarina.txt:n jotain tekstiä, joka on muokattu.
+=======
+turina.txt:n jotain tekstiä
+>>>>>>> Stashed changes
